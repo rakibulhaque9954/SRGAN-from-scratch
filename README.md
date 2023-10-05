@@ -6,3 +6,4 @@
 PSNR Value recevied was: 28.5 which is pretty close to 30 which shows that the Superresolved Image was close in terms of quality.
 
 
+Another result for training over 3 days with 25000 images PSNR was improved to 29.35
