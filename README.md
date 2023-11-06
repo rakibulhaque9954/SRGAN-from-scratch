@@ -1,7 +1,7 @@
 # SRGAN-from-scratch
 
 ## Introduction
-This Jupyter notebook is a comprehensive guide to building a Super-Resolution Generative Adversarial Network (SRGAN) from the ground up. The focus is on upscaling 64x64 pixel images to 256x256 pixels, using the "mirflickr" dataset for training. This project highlights the practical application of deep learning for image super-resolution tasks.
+This Jupyter [notebook](https://github.com/rakibulhaque9954/SRGAN-from-scratch/blob/fffecf5bc62bccb0156b501a800b7d7e1ff666f3/SRGAN_from_scratch.ipynb) is a comprehensive guide to building a Super-Resolution Generative Adversarial Network (SRGAN) from the ground up. The focus is on upscaling 64x64 pixel images to 256x256 pixels, using the "mirflickr" dataset for training. This project highlights the practical application of deep learning for image super-resolution tasks.
 
 ## Model Overview
 
