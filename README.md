@@ -45,7 +45,7 @@ Below is a screenshot from the notebook that provides a visual comparison betwee
 
 ### Generator Summary Screenshot
 The notebook includes a detailed summary of the generator's architecture, as shown in the screenshot below:
-![Generator Summary Screenshot](path_to_generator_summary_screenshot.png)
+![Generator Summary Screenshot](https://github.com/rakibulhaque9954/SRGAN-from-scratch/blob/e4d8a94f4260c53306d73db6a39e43ce7c2be98b/Screenshot%202023-11-06%20at%2021.03.40.png)
 
 ## How to Use This Notebook
 
