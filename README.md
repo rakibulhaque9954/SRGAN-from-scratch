@@ -61,6 +61,8 @@ The "mirflickr" dataset can be downloaded from Kaggle. Follow these steps to get
 ### Running the Notebook
 Follow the instructions and code within the notebook step-by-step to replicate the model training or to perform super-resolution on your images.
 
+### Live Website Repository
+
 ## Conclusion
 The SRGAN model shows promising results in super-resolution imaging. Further improvements could be made by extending training time, enlarging the dataset, and refining the model's architecture.
 
